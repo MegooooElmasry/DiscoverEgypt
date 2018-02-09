@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Mego\Downloads\Discover_Egypt-master\discoveregypt\app\app.iml" filepath="C:\Users\Mego\Downloads\Discover_Egypt-master\discoveregypt\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/discoveregypt.iml" filepath="$PROJECT_DIR$/discoveregypt.iml" />
+      <module fileurl="file://C:\Users\Mego\Downloads\Discover_Egypt-master\discoveregypt\discoveregypt.iml" filepath="C:\Users\Mego\Downloads\Discover_Egypt-master\discoveregypt\discoveregypt.iml" />
+    </modules>
+  </component>
+</project>
